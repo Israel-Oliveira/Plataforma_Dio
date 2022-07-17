@@ -1,0 +1,41 @@
+body {
+  font: 20px arial, sans-serif;
+}
+
+.navbar {
+  background-color: #0D0106;
+}
+
+.navbar a {
+  color: #FBFBFF;
+}
+
+.navbar a:hover {
+  color: #FF331F;
+}
+
+.home {
+  background-color: #FF331F;
+  color: #FBFBFF;
+}
+
+.jogos {
+  background-color: #FBFBFF;
+  color: #0D0106;
+}
+
+.quem-somos {
+  background-color: #0D0106;
+  color: white;
+}
+
+.margin {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
